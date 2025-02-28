@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Google Sheets Clone
 
 This project is a web application that mimics the user interface and core functionalities of Google Sheets. It supports mathematical and data quality functions, data entry, and key UI interactions.
@@ -72,3 +73,6 @@ Develop a web application that closely mimics the user interface and core functi
    Install dependencies: npm install
    Start the development server: npm start
    Open your browser and navigate to:http://localhost:3000
+=======
+# google_sheets_clone
+>>>>>>> d18800057badc6b1fefcc1997a2781dbefd927e3
